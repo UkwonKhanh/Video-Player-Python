@@ -1,0 +1,76 @@
+{
+    "library_items": {
+        "01": {
+            "name": "Tom and Jerry",
+            "director": "Fred Quimby",
+            "rating": 4,
+            "play_count": 0
+        },
+        "02": {
+            "name": "Breakfast at Tiffany's",
+            "director": "Blake Edwards",
+            "rating": 2,
+            "play_count": 0
+        },
+        "03": {
+            "name": "Casablanca",
+            "director": "Michael Curtiz",
+            "rating": 5,
+            "play_count": 0
+        },
+        "04": {
+            "name": "The Sound of Music",
+            "director": "Robert Wise",
+            "rating": 1,
+            "play_count": 0
+        },
+        "05": {
+            "name": "Gone with the Wind",
+            "director": "Victor Fleming",
+            "rating": 3,
+            "play_count": 0
+        },
+        "06": {
+            "name": "Inception",
+            "director": "Christopher Nolan",
+            "rating": 5,
+            "play_count": 0
+        },
+        "07": {
+            "name": "The Adventures of Robin Hood",
+            "director": "Michael Curtiz",
+            "rating": 4,
+            "play_count": 0
+        },
+        "08": {
+            "name": "The Wizard of Oz",
+            "director": "Victor Fleming",
+            "rating": 2,
+            "play_count": 0
+        },
+        "09": {
+            "name": "West Side Story",
+            "director": "Robert Wise",
+            "rating": 2,
+            "play_count": 0
+        },
+        "010": {
+            "name": "The Pink Panther",
+            "director": "Blake Edwards",
+            "rating": 1,
+            "play_count": 0
+        },
+        "011": {
+            "name": "1",
+            "director": "1",
+            "rating": 1,
+            "play_count": 0
+        },
+        "012": {
+            "name": "haa",
+            "director": "sws",
+            "rating": 3,
+            "play_count": 0
+        }
+    }
+}
